@@ -1,2 +1,2 @@
 # GoDump
-Dumping ground for miscellaneous Go scripts
+Dumping ground for miscellaneous [Go](https://golang.org/) scripts
